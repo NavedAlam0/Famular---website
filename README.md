@@ -29,10 +29,10 @@ The website is developed using the following technologies:
 To set up and run the Famular website on your local or web server:
 
 1. Clone or download the repository.
-```
-git clone https://github.com/NavedAlam0/Famular---website.git
-cd Famular
-```
+      ```
+      git clone https://github.com/NavedAlam0/Famular---website.git
+      cd Famular
+      ```
 
 2. Configure your web server (Apache, Nginx, etc.) to support PHP.
    1. Install Apache (if not installed)
