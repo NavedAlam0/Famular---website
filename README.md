@@ -61,27 +61,27 @@ cd Famular
        brew services restart httpd
        ```
    3. Setup Virtual Host for Your Website
-     1. Locate Apache Configuration File:
-         - Ubuntu/Debian: /etc/apache2/sites-available/famular.conf
-         - Windows (XAMPP): C:\xampp\apache\conf\extra\httpd-vhosts.conf
-         - Mac: /usr/local/etc/httpd/httpd.conf
-     2. Create or Edit Virtual Host Configuration:
-         - Add the following configuration:
-         ```
-           <VirtualHost *:80>
-               ServerAdmin admin@famular.com
-               DocumentRoot "/var/www/html/famular"
-               ServerName famular.com
-               ServerAlias www.famular.com
-               <Directory "/var/www/html/famular">
-                   AllowOverride All
-                   Require all granted
-               </Directory>
-               ErrorLog ${APACHE_LOG_DIR}/error.log
-               CustomLog ${APACHE_LOG_DIR}/access.log combined
-           </VirtualHost>
-           ```
-          - Replace /var/www/html/famular with the path where your Famular website is located.
+        1. Locate Apache Configuration File:
+            - Ubuntu/Debian: /etc/apache2/sites-available/famular.conf
+            - Windows (XAMPP): C:\xampp\apache\conf\extra\httpd-vhosts.conf
+            - Mac: /usr/local/etc/httpd/httpd.conf
+        2. Create or Edit Virtual Host Configuration:
+            - Add the following configuration:
+            ```
+              <VirtualHost *:80>
+                  ServerAdmin admin@famular.com
+                  DocumentRoot "/var/www/html/famular"
+                  ServerName famular.com
+                  ServerAlias www.famular.com
+                  <Directory "/var/www/html/famular">
+                      AllowOverride All
+                      Require all granted
+                  </Directory>
+                  ErrorLog ${APACHE_LOG_DIR}/error.log
+                  CustomLog ${APACHE_LOG_DIR}/access.log combined
+              </VirtualHost>
+              ```
+             - Replace /var/www/html/famular with the path where your Famular website is located.
    4. Enable the Site & Restart Apache
        - Linux/Mac:
         ```
