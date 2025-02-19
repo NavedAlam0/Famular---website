@@ -96,7 +96,7 @@ cd Famular
 
          - Windows: C:\Windows\System32\drivers\etc\hosts
          - Linux/Mac: /etc/hosts
-      Add the following line:
+      - Add the following line:
          ```
          127.0.0.1 famular.com www.famular.com
          ```
