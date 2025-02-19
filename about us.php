@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="About us/css/styles.css">
+    <title>About Us</title>
+
+</head>
+<ul class="ul">
+    <img src="About us/image/FAMULAR__3_-removebg-preview.png" alt="" class="logo">
+<li><a href="index.php">Home</a></li>
+<li>
+    <a href="#Services">Services</a>
+    <ul class="dropdown">
+        <li><a href="youtube.php">YoutubeInfluencerMarketing</a></li>
+        <li><a href="instagram.php">InstagramInfluencerMarketing</a></li>
+        <li><a href="r.php">RegionalInfluencerMarketing</a></li>
+    </ul>
+</li>
+<li><a href="about us.php">About Us</a></li>
+<li><a href="Contect us.php">Contact Us</a></li>
+</ul>
+<body>
+
+    <section class="header">
+        <p class="c">ABOUT US</p>
+        <img src="About us/image/marketing-graphic-1024x812.png" alt="" class="h1">
+    </section>
+
+    <section class="header2">
+        <div class="h2">
+            <h1 class="a1">TAKE YOUR BUSINESS TO THE NEXT <br>
+                LEVEL</h1>
+            <p class="p2">
+                We are a leading ROI-driven influencer marketing agency that has engineered some <br>
+                of the most successful campaigns by uniting brands with top influencers, content <br>
+                creators and artists. A team of creative geniuses, we combine innovation with data to <br> 
+                design, execute and optimize influencer campaigns, thereby leaving a significantb <br>
+                footprint in the market.</p>
+            <p class="p2">Since our inception, we have helped over 200+ brands with their amplification and <br> 
+                    marketing. Our rich experience in the domain makes us an ideal choice for businesses <br>
+                    of all sizes.</p>
+            <p class="p2">Ready to take the back-and-forth off your plate? Leave the end-to-end management of <br>
+                    your campaigns to us!</p>
+        </div>
+
+        <div class="i2">
+            <img src="About us/image/j/750x750bb.jpeg" alt="" class="i1">
+        </div>
+    </section>
+    
+    <section class="header3">
+
+        <div class="i3">
+            <img src="About us/image/s/24493595_6922175-removebg-preview.png" alt="" class="i3">
+        </div>
+        <div class="h3">
+            <h2 class="i2">Mission</h2>
+            <p class="p3">Famular is a holistic Influencer Marketing Agency that helps brands conquer <br>
+                the digital space with the right talent. We are a catalyst for brands who want to achieve <br>
+                their business goals by leveraging the power of effective marketing coupled with social media.</p>
+        </div>
+
+    </section>
+
+    <section class="header4">
+        <div class="h4">
+            <h3 class="i2">Vision</h3>
+            <p class="p4">Our vision fuels us constantly and can be summarized in our tagline “Influencing the World”. <br>
+                While it may sound like a simple goal, it can only be achieved by ensuring the success of <br>
+                our native and global clients for whom we work passionately.</p>
+        </div>
+        <div class="i4">
+            <img src="About us/image/s/find-your-partner-vector-removebg-preview.png" alt="" class="i4">
+        </div>
+
+    </section>
+
+    <section class="header5">
+        <div class="h5">
+            <h4 class="ourvalue"> Our Values</h4>
+        </div>
+    </section>
+
+    <section class="element1">
+        
+        <div class="e1" style="border: 500px;">
+            <p class="for1">01</p>
+            <p class="for2">Doing the Right Thing</p>
+            <p class="for3">We firmly believe that acting with <br>
+                integrity is crucial for everyone <br> 
+                representing our organization. We are <br>
+                respected for our commitment, honesty, <br>
+                trust, and transparency by all our <br>
+                stakeholders.</p>
+        </div>
+
+        <div class="e2">
+            <p class="for1">02</p>
+            <p class="fore">Innovation is our First Instinct</p>
+            <p class="fore3">Our passion for our core purpose gives <br>
+                us the courage to go beyond our comfort <br>
+                zone, innovating and experimenting in <br>
+                whatever we do.</p>
+        </div>
+
+        <div class="e3">
+            <p class="for1">03</p>
+            <p class="porel2">Unity is our core strength</p>
+            <p class="forel3">We’ve created a positive and inclusive <br>
+                culture that fosters meaningful <br>
+                relationships. We take every <br>
+                opportunity to embrace and celebrate <br>
+                diversity.</p>
+        </div>
+    </section>
+
+    <section class="element2">
+        <div class="element-2-image">
+            <img src="About us/image/s/Why-Choose-SocioInfluencer-.webp" alt="" class="girl-spick">
+        </div>
+        <div class="kaal">
+            <div class="element-2-list">
+                <h1 class="list-heading">Why Choose Famular ?</h1>
+                <p class="list-paragraph">If you are wondering why you should choose Famular, worry no more because we will tell you exactly why!</p>
+            </div>
+            <div class="kaa2">
+                <div class="element-2-list-1">
+                    <div class="e-image">
+                        <img src="About us/image/s/1542868743quality.png" alt="" class="small">
+                    </div>
+                    <div class="p1">
+                        <a class="list-1-heading"><span>Top influencer marketing agency in India</span></a>
+                        <p class="list-1-paragraph">
+                            We are among India's leading influencer marketing agencies, which is only because of the growth we have provided to numerous brands and influencers over the years.
+                        </p>
+                    </div>
+                </div>
+                <div class="element-2-list2">
+                    <div class="e1-image">
+                        <img src="About us/image/s/2098674_268150-P5HM3K-446-removebg-preview-300x279.png" alt="" class="small">
+                    </div>
+                    <div class="p1">
+                        <a class="list-1-heading"><span>Connecting brands with relevant influencers</span></a>
+                        <p class="list-1-paragraph">
+                            The target audience plays a vital role in influencer marketing. We understand the brand’s needs like no other agency, which is why the content delivered by our influencers significantly boosts brand growth.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="element-2-list3">
+                    <div class="e2-image">
+                        <img src="About us/image/s/5.png" alt="" class="small">
+                    </div>
+                    <div class="p1">
+                        <a class="list-1-heading"> <span>Great brand campaigns</span></a>
+                        <p class="list-1-paragraph">
+                            We create powerful marketing campaigns with a strong strategy and exceptional delivery.
+                        </p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+    <section class="element3">
+        
+     <div class="logos">
+        <h1 class="slide-heading">200+ Leading Brands Trust</h1>
+        <div class="logo-slide">
+            <img src="About us/image/clients/clients-1-150x100.png" alt="">
+            <img src="About us/image/clients/clients-2-150x100.png" alt="">
+            <img src="About us/image/clients/clients-3-150x100.png" alt="">
+            <img src="About us/image/clients/clients-4-150x100.png" alt="">
+            <img src="About us/image/clients/clients-5-150x100.png" alt="">
+            <img src="About us/image/clients/clients-6-150x100.png" alt="">
+            <img src="About us/image/clients/clients-7-150x100.png" alt="">
+            <img src="About us/image/clients/clients-8-150x100.png" alt="">
+        </div>
+        <div class="logo-slide">
+            <img src="About us/image/clients/clients-1-150x100.png" alt="">
+            <img src="About us/image/clients/clients-2-150x100.png" alt="">
+            <img src="About us/image/clients/clients-3-150x100.png" alt="">
+            <img src="About us/image/clients/clients-4-150x100.png" alt="">
+            <img src="About us/image/clients/clients-5-150x100.png" alt="">
+            <img src="About us/image/clients/clients-6-150x100.png" alt="">
+            <img src="About us/image/clients/clients-7-150x100.png" alt="">
+            <img src="About us/image/clients/clients-8-150x100.png" alt="">
+        </div>
+     </div>
+    </section>
+
+    <hr>
+    
+    <section class="lowerform">
+        <style type="text/css">
+            .lowerform{
+                background-image: url(/image/contact-logo/bg-footer.png);
+            }
+        </style>
+        <div class="formhead">
+            <div class="about">
+                <img src="About us/image/FAMULAR__3_-removebg-preview.png" alt="" class="logo2">
+                <p class="ad2">Famular is the leading Influencer <br>
+                    Marketing Firm connecting top brands with <br>
+                    passionate  socially-engaged  audiences <br>
+                    through social media influencers.</p>
+            </div>
+
+            <div class="service">
+                <h1 class="ad3">Services</h1>
+                <p class="ad2">
+                    Instagram Influencer Marketing <br>
+                    YouTube Influencer Marketing <br>
+                    Regional Influencer Marketing
+                </p>
+            </div>
+
+            <div class="contact">
+                <h1 class="ad3">Contact Us</h1>
+                <div class="address">
+                    <img src="About us/image/j/address (1).png" alt="" class="ad1">
+                    <p class="ad2">
+                        1045b,Paikhramow, Kursi Road,Near <br>
+                        Integral UniversityLucknow -226026
+                    </p>
+                </div>
+
+                <div class="email">
+                    <img src="About us/image/j/email.png" alt="" class="ad1">
+                    <p class="ad2">hello@famular.com</p>
+                </div>
+
+                <div class="phone">
+                    <img src="About us/image/j/phone.png" alt="" class="ad1">
+                    <p class="ad2">+91-8736012096 / 011-47071856</p>
+                </div>
+            </div>
+        </div>
+        <hr class="line">
+        <footer class="ft1">
+            <p class="text-footer">
+            Copyright &copy; 2027 www.famular.com - All right reserved 
+            </p>
+        </footer>
+    </section>
+    </section>
+</body>
+</html>

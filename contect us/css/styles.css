@@ -1,0 +1,225 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    width: 105px;
+    height: 98px;
+    padding: 12px 21px;
+    
+}
+.ul{
+    
+    background: rgba(255, 255, 255, 0.071);
+    margin-bottom: -35px;
+    display: flex;
+    align-items: center;
+    position:sticky;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.ul li{
+    display: inline-block;
+    position: relative;
+    
+}
+
+.ul li a{
+    display: block;
+    padding: 20px 25px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.ul li ul.dropdown li{
+    display: block;
+    
+}
+
+.ul li ul.dropdown{
+    width: 100%;
+    position: absolute;
+    background: none;
+    z-index: 999;
+    display: none;
+    
+}
+
+.ul li a:hover{
+    color: rgb(238, 159, 11) ;
+    
+}
+ 
+ul li:hover ul.dropdown{
+    display: block;
+    background-color: white;
+    width: 380px;
+    
+}
+
+ .header img{
+    width: 668px;
+    margin-top: -22px;
+} 
+
+.header{
+    margin: 36px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(212, 196, 166, 0.807);
+    margin-right: 0;
+    margin-left: -1px;
+    height: 335px;
+}
+
+ .c{
+    width: 316px;
+    font-size: xxx-large;
+    font-weight: bold;
+    color: rgba(227, 167, 55, 0.826);
+}  
+
+.rightbox{
+    display: flex;
+    margin-left: 15%;
+    padding: 85px 0;
+}
+
+.h2{
+    padding: 94px 61px;
+}
+
+.heading2{
+    font-size: 17px;
+    color: orange;
+}
+
+.c1{
+    font-size: 38px;
+    font-weight: 550;
+}
+
+.d{
+    font-size: 17px;
+}
+
+.j{
+    width: 38px;
+    margin-top: 33px;
+    padding: 0 46px;
+}
+
+.box1{
+    padding: 0 24px;
+}
+
+.heading{
+    font-size: 17px;
+    color: orange;
+}
+
+.l1{
+    font-size: 38px;
+    font-weight: 550;
+    margin-bottom: 42px;
+}
+
+.b{
+    width: 440px;
+    height: 37px;
+    padding: 0 3px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+    font-size: larger;
+}
+
+.f1{
+    font-size: 21px
+}
+
+.heading3{
+    margin-bottom: 8px;
+    font-size: 25px;
+    padding: 0 45px;
+}
+
+.ad{
+    padding: 0 45px;
+}
+
+.submit{
+    background-color: orange;
+    color: white;
+    padding: 7px 25px;
+    margin: 1px 2px;
+    border: 6px rgb(9, 178, 119);
+    border-radius: 23px;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.formhead{
+    display: flex;
+    justify-content: center;
+    margin-top: 61px;
+}
+
+.logo2{
+    width: 105px;
+    height: 98px;
+}
+
+.ad2{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.ad1{
+    height: 31px;
+    padding: 4px 11px;
+}
+
+.ad3{
+    font-size: 35px;
+    padding: 32px
+}
+
+.about{
+    margin-right: 52px;
+}
+
+.service{
+    margin-right: 52px;
+}
+
+.address{
+    display: flex;
+}
+
+.email{
+    display: flex;
+}
+
+.phone{
+    display: flex;
+}
+.line{
+    height: 8px;
+    margin-top: 52px;
+}
+
+/* Footer */
+.ft1{
+    /* background-color: rgb(209, 237, 237); */
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: center;
+}
