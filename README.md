@@ -48,18 +48,17 @@ To set up and run the Famular website on your local or web server:
            brew install httpd
            ```
    2. Configure Apache for PHP
-       If PHP is not enabled, install it:
-
-      - Ubuntu/Debian:
-       ```
-       sudo apt install php libapache2-mod-php php-mysql
-       sudo systemctl restart apache2
-       ```
-      - Mac (Homebrew):
-       ```
-       brew install php
-       brew services restart httpd
-       ```
+         If PHP is not enabled, install it:
+       - Ubuntu/Debian:
+          ```
+          sudo apt install php libapache2-mod-php php-mysql
+          sudo systemctl restart apache2
+          ```
+       - Mac (Homebrew):
+          ```
+          brew install php
+          brew services restart httpd
+          ```
    3. Setup Virtual Host for Your Website
         1. Locate Apache Configuration File:
             - Ubuntu/Debian: /etc/apache2/sites-available/famular.conf
