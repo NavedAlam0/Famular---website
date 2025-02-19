@@ -36,7 +36,6 @@ To set up and run the Famular website on your local or web server:
 
 2. Configure your web server (Apache, Nginx, etc.) to support PHP.
       1. Install Apache (if not installed)
-   
           - Windows (XAMPP/WAMP): Install XAMPP or WAMP.
           - Linux (Ubuntu/Debian):
               ```
@@ -47,8 +46,8 @@ To set up and run the Famular website on your local or web server:
               ```
               brew install httpd
               ```
-       2. Configure Apache for PHP
-            If PHP is not enabled, install it:
+      2. Configure Apache for PHP
+         If PHP is not enabled, install it:
           - Ubuntu/Debian:
              ```
              sudo apt install php libapache2-mod-php php-mysql
@@ -64,7 +63,7 @@ To set up and run the Famular website on your local or web server:
                - Ubuntu/Debian: /etc/apache2/sites-available/famular.conf
                - Windows (XAMPP): C:\xampp\apache\conf\extra\httpd-vhosts.conf
                - Mac: /usr/local/etc/httpd/httpd.conf
-          2. Create or Edit Virtual Host Configuration:
+           2. Create or Edit Virtual Host Configuration:
                - Add the following configuration:
                   ```
                     <VirtualHost *:80>
@@ -81,26 +80,26 @@ To set up and run the Famular website on your local or web server:
                     </VirtualHost>
                     ```
                - Replace /var/www/html/famular with the path where your Famular website is located.
-      4. Enable the Site & Restart Apache
-           1. Linux/Mac:
-                ```
-                   sudo a2ensite famular.conf
-                   sudo systemctl restart apache2
-                 ```
-            2. Windows (XAMPP):
-                - Open XAMPP Control Panel
-                - Start Apache
-      5. Update Hosts File (If Using Custom Domain Locally)
-            1. Edit your hosts file:
-   
-               - Windows: C:\Windows\System32\drivers\etc\hosts
-               - Linux/Mac: /etc/hosts
-            2. Add the following line:
-               ```
-               127.0.0.1 famular.com www.famular.com
-               ```
-      6. Test Your Website
-          - Open http://famular.com/ in your browser.
+            4. Enable the Site & Restart Apache
+                 1. Linux/Mac:
+                      ```
+                         sudo a2ensite famular.conf
+                         sudo systemctl restart apache2
+                       ```
+                  2. Windows (XAMPP):
+                      - Open XAMPP Control Panel
+                      - Start Apache
+            5. Update Hosts File (If Using Custom Domain Locally)
+                  1. Edit your hosts file:
+         
+                     - Windows: C:\Windows\System32\drivers\etc\hosts
+                     - Linux/Mac: /etc/hosts
+                  2. Add the following line:
+                     ```
+                     127.0.0.1 famular.com www.famular.com
+                     ```
+            6. Test Your Website
+                  - Open http://famular.com/ in your browser.
 
 3. Import the provided SQL database into your MySQL server.
    1. Open MySQL
