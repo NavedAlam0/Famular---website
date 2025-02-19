@@ -82,14 +82,14 @@ To set up and run the Famular website on your local or web server:
               ```
              - Replace /var/www/html/famular with the path where your Famular website is located.
    4. Enable the Site & Restart Apache
-       - Linux/Mac:
-        ```
-         sudo a2ensite famular.conf
-         sudo systemctl restart apache2
-        ```
-       - Windows (XAMPP):
-          - Open XAMPP Control Panel
-          - Start Apache
+             - Linux/Mac:
+              ```
+               sudo a2ensite famular.conf
+               sudo systemctl restart apache2
+              ```
+             - Windows (XAMPP):
+                - Open XAMPP Control Panel
+                - Start Apache
    5. Update Hosts File (If Using Custom Domain Locally)
       - Edit your hosts file:
 
