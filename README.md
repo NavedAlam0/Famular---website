@@ -149,7 +149,7 @@ To set up and run the Famular website on your local or web server:
 
 ## Usage
 
-1. ***Brands & Businesses:*** Register and create campaigns to connect with influencers.
+1. ***Brands & Businesses:*** Register to connect with influencers.
 
 2. ***Influencers:*** Apply for campaigns that match their niche.
 
