@@ -1,10 +1,10 @@
 # Famular - Influencer Advertisement Marketing Website
 
-**Overview**
+## Overview
 
 Famular is an influencer advertisement marketing website designed to connect brands with influencers for effective marketing campaigns. The platform leverages YouTube, Instagram, and regional influencers to help businesses reach their target audience and maximize their brand visibility.
 
-**Features & Services**
+## Features & Services
 
 Famular provides three core services:
 
@@ -14,7 +14,7 @@ Instagram Influencer Marketing – Helps businesses collaborate with Instagram i
 
 Regional Influencer Marketing – Targets local audiences by engaging influencers from specific regions to enhance localized brand outreach.
 
-**Technologies Used**
+## Technologies Used
 
 The website is developed using the following technologies:
 
@@ -24,7 +24,7 @@ Backend: PHP
 
 Database: SQL
 
-**Installation & Setup**
+## Installation & Setup
 
 To set up and run the Famular website on your local or web server:
 
@@ -38,7 +38,7 @@ Update database connection details in the PHP configuration file.
 
 Start the server and access the website through your browser.
 
-**Usage**
+## Usage
 
 Brands & Businesses: Register and create campaigns to connect with influencers.
 
@@ -46,10 +46,10 @@ Influencers: Sign up and apply for campaigns that match their niche.
 
 Admins: Manage users, campaigns, and transactions via the admin dashboard.
 
-**Contribution**
+## Contribution
 
 If you would like to contribute to Famular, feel free to submit issues or pull requests.
 
-**License**
+## License
 
 This project is licensed.
