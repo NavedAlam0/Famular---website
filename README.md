@@ -8,11 +8,11 @@ Famular is an influencer advertisement marketing website designed to connect bra
 
 Famular provides three core services:
 
--- YouTube Influencer Marketing – Connects brands with YouTube influencers to promote products and services    through video content.
+- YouTube Influencer Marketing – Connects brands with YouTube influencers to promote products and services    through video content.
 
--- Instagram Influencer Marketing – Helps businesses collaborate with Instagram influencers for impactful social media promotions.
+- Instagram Influencer Marketing – Helps businesses collaborate with Instagram influencers for impactful social media promotions.
 
--- Regional Influencer Marketing – Targets local audiences by engaging influencers from specific regions to enhance localized brand outreach.
+- Regional Influencer Marketing – Targets local audiences by engaging influencers from specific regions to enhance localized brand outreach.
 
 ## Technologies Used
 
